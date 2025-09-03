@@ -1,0 +1,51 @@
+.input-title {
+  color: white;
+  font-family: Roboto, Arial;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 5px;
+}
+
+.input-calculator {
+  display: inline-block;
+  background-color: black;
+  width: 200px;
+  margin-left: 10px;
+  padding: 10px;
+}
+
+.field-container {
+  display: flex;
+}
+
+.input-field {
+  border: 1px solid rgb(113, 111, 111);
+  padding: 5px;
+  width: 140px;
+  height: 10px;
+  margin: 0;
+
+}
+
+.input-measure {
+  width: 40px;
+  height: 20px;
+  margin: 0;
+  border: 1px solid rgb(113, 111, 111);
+  background-color: rgb(167, 167, 167);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 2px;
+  padding-right: 2px;
+  font-family: Roboto, Arial;
+  font-size: 14px;
+
+}
+
+input:focus {
+  border: 1px solid rgb(113, 111, 111);
+  outline: none;
+}
+

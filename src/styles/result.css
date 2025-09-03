@@ -1,0 +1,28 @@
+.result-container{
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+
+.result-title, .result-value{
+  color: white;
+  font-family: Roboto, Arial;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 5px;
+}
+
+.result-value {
+  background-color: white;
+  color: black;
+  border: 1px solid rgb(113, 111, 111);
+  padding: 8px;
+  width: 140px;
+  height: 10px;
+  margin: 0;
+}

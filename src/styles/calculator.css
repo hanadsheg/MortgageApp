@@ -1,0 +1,40 @@
+.calculator-form {
+  background-color: white;
+  display:flex;
+  width: fit-content;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  border-radius: 15px;
+  margin: 20px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  margin-bottom: 10px;
+}
+
+.calculator-title {
+  color: black;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.calculate-button {
+  height: 40px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.calculator-container{
+  margin-bottom: 30px;
+}

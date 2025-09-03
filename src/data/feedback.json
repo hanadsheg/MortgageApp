@@ -1,0 +1,94 @@
+{
+  "feedback": [
+  {
+    "id": "1",
+    "user": "Alice B.",
+    "rating": 4,
+    "comment": "Really helpful tool. Could use a bit more detail."
+  },
+  {
+    "id": "2",
+    "user": "John D.",
+    "rating": 5,
+    "comment": "Excellent! Made everything so clear."
+  },
+  {
+    "id": "3",
+    "user": "Emily R.",
+    "rating": 3,
+    "comment": "It’s okay, but I had to double-check some figures."
+  },
+  {
+    "id": "4",
+    "user": "Mark L.",
+    "rating": 5,
+    "comment": "Super easy to use and spot on!"
+  },
+  {
+    "id": "5",
+    "user": "Sarah T.",
+    "rating": 4,
+    "comment": "Very useful, especially the monthly breakdown."
+  },
+  {
+    "id": "6",
+    "user": "James W.",
+    "rating": 2,
+    "comment": "Didn’t quite meet my needs. Needs more customization."
+  },
+  {
+    "id": "7",
+    "user": "Nina P.",
+    "rating": 5,
+    "comment": "Perfect! Just what I was looking for."
+  },
+  {
+    "id": "8",
+    "user": "Tom H.",
+    "rating": 5,
+    "comment": "Perfect! Exactly what I needed."
+  },
+  {
+    "id": "9",
+    "user": "Liam S.",
+    "rating": 4,
+    "comment": "Great experience, very clear calculations."
+  },
+  {
+    "id": "10",
+    "user": "Olivia K.",
+    "rating": 3,
+    "comment": "Helpful but could be more beginner-friendly."
+  },
+  {
+    "id": "11",
+    "user": "David G.",
+    "rating": 5,
+    "comment": "Flawless. Highly recommend it."
+  },
+  {
+    "id": "12",
+    "user": "Chloe M.",
+    "rating": 4,
+    "comment": "Clear layout and accurate results."
+  },
+  {
+    "id": "13",
+    "user": "Ethan J.",
+    "rating": 1,
+    "comment": "Didn’t work at all for my case."
+  },
+  {
+    "id": "14",
+    "user": "Sophia B.",
+    "rating": 5,
+    "comment": "Made my mortgage planning 10x easier!"
+  },
+  {
+    "id": "15",
+    "user": "Lucas V.",
+    "rating": 4,
+    "comment": "Good tool, especially for first-time buyers."
+  }
+]
+}
