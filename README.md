@@ -38,6 +38,9 @@ Working on this project helped me to:
 - Implement a **mortgage calculator** in React.  
 - Fetch and display **user reviews** with **JSON Server**.  
 - Write **modular, reusable components** for clarity and scalability.
+- - Manage and display **assets** (images/icons) in React.  
+- Style the app with **CSS** for a consistent look and feel.  
+- Understand the importance of **feedback, reviews, and accessibility** in financial services. 
 
 ---
 
@@ -46,9 +49,3 @@ Working on this project helped me to:
 <img width="2829" height="1507" alt="image" src="https://github.com/user-attachments/assets/b6534ecd-7746-4410-b70f-c49b81fdfe20" />
 <img width="2844" height="964" alt="image" src="https://github.com/user-attachments/assets/9fb3b036-2e67-4a43-be32-0202f5e5e5fa" />
 <img width="2845" height="1487" alt="image" src="https://github.com/user-attachments/assets/4b1c9afb-6e32-4ff3-afc7-c37c607515b0" />
-
-
-
-- Manage and display **assets** (images/icons) in React.  
-- Style the app with **CSS** for a consistent look and feel.  
-- Understand the importance of **feedback, reviews, and accessibility** in financial services. 
