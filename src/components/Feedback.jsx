@@ -1,11 +1,11 @@
-
+import FeedbackInput from "./FeedbackInput.jsx";
+import '../styles/feedback.css'
 
 function Feedback() {
   return(
-    <>
-    <h1>Feedback</h1>
-    <p>We value your feedback!</p>
-    </>
+    <div className = "feedback">
+      <FeedbackInput />
+    </div>
   )
 }
 

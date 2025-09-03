@@ -1,0 +1,48 @@
+.feedback {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.feedback-input {
+  display: flex;
+  flex-direction: column
+}
+
+.star-rating {
+  display: flex;
+  gap: 5px;
+}
+
+.star-rating button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 2rem;
+}
+
+.star-rating .on .star {
+  color: gold;   
+}
+
+.star-rating .off .star {
+  color: #ccc;
+}
+
+.name-input {
+  margin: 5px;
+  width: 220px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.comment-input {
+  margin: 5px;
+  width: 400px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.feedback-input :focus {
+  outline: none;
+}
