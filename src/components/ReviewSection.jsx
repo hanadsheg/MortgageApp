@@ -36,7 +36,7 @@ function ReviewSection({HomePage}) {
         {
               isHomePage ? reviews.slice(0,6).map(review => (
                 <Review key = {review.id} author={review.user} rating={String(review.rating)} comment={review.comment} />)) :
-                reviews.map(review => (
+                reviews.slice(0,15).map(review => (
                   <Review key = {review.id} author={review.user} rating={String(review.rating)} comment={review.comment} />
             ))
           }
